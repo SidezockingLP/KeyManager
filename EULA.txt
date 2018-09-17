@@ -1,6 +1,6 @@
-</---Server_Manager-Endbenutzer-Lizensvertrag--->
+</---KeyManager-Endbenutzer-Lizensvertrag--->
 
-Aktualisiert am 27. März 2018 12:28
+Aktualisiert am 27. MÃ¤rz 2018 12:28
 
 WICHTIG! BITTE LESEN SIE SICH DIESE LIZENZ GUT DURCH, BEVOR SIE DIESES
 PROGRAMM BENUTZTEN!
@@ -79,12 +79,12 @@ Informationen bereitstellen!
 
 Wir stellen Ihnen eine Kopie unseres Programmes
 "wie besehen" (ohne Maengelgewaehr) zur Verfuegung. Updates werden
-ebenfalls "wie besehen" zur Verfuegung gestellt. Das heißt, wir geben Ihnen
+ebenfalls "wie besehen" zur Verfuegung gestellt. Das heiÃŸt, wir geben Ihnen
 gegenueber keine Zusicherungen hinsichtlich des Standards oder der
 Qualitaet unseres Programmes oder der unterbrechungsfreien Nutzung
-oder Fehlerfreiheit des Programmes ab. Wir haften nicht für
+oder Fehlerfreiheit des Programmes ab. Wir haften nicht fÃ¼r
 Verluste oder Schaeden, die dadurch entstehen koennen. Sie tragen
-das gesamte Risiko für die Qualitaet und Leistung des Programmes.
+das gesamte Risiko fÃ¼r die Qualitaet und Leistung des Programmes.
 Sie muessen akzeptieren, dass unser Team Updates deutlich vor
 ihrem Abschluss heruageben und daher moeglicherweise
 (und oftmals tatsaechlich) Fehler aufweisen. Dennoch geben
